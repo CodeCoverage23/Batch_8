@@ -1,9 +1,9 @@
 package com.Assign1;
-
+//1. Write the Java program to print the Code Coverage message on console
 public class Que1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.println("the code coverage");
 
 	}
