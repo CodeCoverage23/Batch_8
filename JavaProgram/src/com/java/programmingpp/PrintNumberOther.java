@@ -1,14 +1,14 @@
-package com.java.programming;
+package com.java.programmingpp;
 
 public class PrintNumberOther {
 
 	public static void main(String[] args) {
 
-		System.out.println( PrintNumber.m1());
+		System.out.println(PrintNumber.m1());
 
 	}
 
-	public static int m1() {
+	public static int m1() { 
 
 		return 20;
 
