@@ -9,10 +9,13 @@ public class IntegerProgram {
 		
 		System.out.println(a=a+b);
 	
+		int c=30;
+		int d=40;
 		
+		System.out.println(d=a+b+c+d);
 
 
 
-	}
+	} 
 
 }
