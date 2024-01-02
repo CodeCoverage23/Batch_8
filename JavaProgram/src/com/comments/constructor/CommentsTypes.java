@@ -1,4 +1,4 @@
-package com.java.comments;
+package com.comments.constructor;
 
 /**
  * @author Yogeshwari
