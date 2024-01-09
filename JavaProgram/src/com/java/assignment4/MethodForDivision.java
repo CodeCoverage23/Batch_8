@@ -5,14 +5,14 @@ public class MethodForDivision {
 	public static void main(String[] args) {
 		
 		MethodForDivision m = new MethodForDivision();
-		int i = m.methodwithparameters(100, 60);
+		int i = m.div(10, 5);
 
 		System.out.println(i);
 
 	}
 
-	public int methodwithparameters(int a, int b) {
-		return a  b;
+	public int div(int a, int b) {
+		return a / b;
 
 	}
 
