@@ -16,9 +16,9 @@ public class SwapProgram {
 		temp = a;
 		a = b;
 		b = temp;
-		
+
 		System.out.println("The number after swapping");
-		System.out.println("a :"+a+ " & b : "+b);
+		System.out.println("a :" + a + " & b : " + b);
 	}
 
 }
