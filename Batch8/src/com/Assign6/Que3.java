@@ -3,7 +3,7 @@ package com.Assign6;
 
 public class Que3 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.println("Even numbers from 50 to 75 are : ");
 	
 		for(int n=50;n<=75;n++) {

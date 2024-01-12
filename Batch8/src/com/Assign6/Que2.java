@@ -6,7 +6,7 @@ import java.util.Scanner;
 //( Example enter the no=5 then output like 
 //5*1=5.......5*10=50)
 
-public class Que2 {
+public class Que2 { 
 	public void multiplication(int no) {
 		System.out.println("table of a " + no);
 		for (int i = 1; i <= 10; i++) {
