@@ -8,10 +8,9 @@ public class squareOfNumber {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("the square of any numbeer");
 		int num = sc.nextInt();
-		int num =i;
-	        for(i*2;i++) {
-			System.out.println("i");
-		} 
+		int sq = num*num;
+			System.out.println("square of a " + num + " is " + sq);
+		
 		
 		
 	}
