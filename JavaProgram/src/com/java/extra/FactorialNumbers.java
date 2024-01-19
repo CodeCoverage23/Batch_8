@@ -1,11 +1,14 @@
- package com.java.extra;
-//Write a program to print the factorial of 5.
-public class FactorialProgram {
+package com.java.extra;
+
+import java.util.Scanner;
+
+public class FactorialNumbers {
 
 	public static void main(String[] args) {
-		
-		int num = 5;
-		int fact = FactorialProgram.fact(num);
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter a number :");
+		int num = sc.nextInt();
+		int fact = FactorialNumbers.fact(num);
 		System.out.println("The factorial of " + num + " is : " + fact);
 
 	}
@@ -19,4 +22,5 @@ public class FactorialProgram {
 	}
 
 	}
+
 
