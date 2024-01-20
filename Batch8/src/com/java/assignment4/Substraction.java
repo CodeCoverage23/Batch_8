@@ -6,7 +6,7 @@ public class Substraction {
 
 	public static void main(String[] args) {
 		Substraction obj = new Substraction();
-		System.out.println(obj.sub(20, 10));
+		System.out.println(obj.sub(40, 15));
 
 	}
 
