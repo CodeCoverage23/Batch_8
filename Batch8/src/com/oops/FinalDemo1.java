@@ -18,5 +18,12 @@ public class FinalDemo1 {
 		FinalDemo1 f = new FinalDemo1();
 		System.out.println(f.data);
 	}
-
+	
+	protected void protectedMethod() {
+		System.out.println("protected Method");
+	}
+ 
+	public void publicMethod() {
+		System.out.println("public method");
+	}
 }

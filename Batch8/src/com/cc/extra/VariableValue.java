@@ -1,6 +1,8 @@
 package com.cc.extra;
 
-public class VariableValue {
+import com.oops.FinalDemo1;
+
+public class VariableValue extends FinalDemo1 {
 
 	public static void main(String[] args) {
 		int i;
@@ -8,6 +10,10 @@ public class VariableValue {
 
 		}
 		System.out.println(i);
+
+		VariableValue v = new VariableValue();
+		v.protectedMethod();
+		v.publicMethod();
 
 	}
 
