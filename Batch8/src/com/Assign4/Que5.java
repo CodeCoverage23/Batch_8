@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Que5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the marks of follwing 5 subjects :");
 		System.out.println("English : ");

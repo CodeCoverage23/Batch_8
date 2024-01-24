@@ -15,6 +15,7 @@ public class DoWhile {
 			i = sc.nextInt();
 		} while (i >= 0);
 
+		sc.close();
 	}
 
 }
