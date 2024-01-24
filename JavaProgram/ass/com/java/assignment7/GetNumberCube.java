@@ -16,7 +16,7 @@ public class GetNumberCube {
 		int cube =0;
 		int i = (int) Math.pow(num, 3);
 		 
-		return cube;
+		return i;
 
 	}
 
