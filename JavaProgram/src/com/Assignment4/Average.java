@@ -1,4 +1,5 @@
 package com.Assignment4;
+//Average of 5 subject
 
 public class Average {
 
