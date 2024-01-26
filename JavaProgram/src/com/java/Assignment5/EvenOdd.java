@@ -1,5 +1,5 @@
 package com.java.Assignment5;
-
+//Even odd number
    import java.util.Scanner;
 
 public class EvenOdd {
