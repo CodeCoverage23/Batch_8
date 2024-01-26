@@ -1,6 +1,7 @@
 package com.java.Assignment5;
 
 public class GreaterNo {
+	//Greater no among three
 
 	public static void main(String[] args) {
 		
