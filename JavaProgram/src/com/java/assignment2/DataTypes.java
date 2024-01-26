@@ -1,5 +1,8 @@
 package com.java.assignment2;
 
+ // Declare primitive data type
+
+
 public class DataTypes {
 
 	public static void main(String[] args) {
