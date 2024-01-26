@@ -1,6 +1,6 @@
 package com.Assignment4;
-//WAP to design
-
+//WAP to design mtd for mul of two no
+//result print in main mtd
 public class Multiplication {
 
 	public static void main(String[] args) {
