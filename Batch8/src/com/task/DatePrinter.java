@@ -7,7 +7,8 @@ public class DatePrinter {
 	public static void main(String[] args) {
 
 		LocalDate currentDate = LocalDate.now();
-
+		System.out.println(currentDate);
+		//for formatting date as  "dd-MM-yyyy"
 		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
 		System.out.println("Current Date: " + formatter.format(currentDate));
@@ -16,6 +17,7 @@ public class DatePrinter {
 		for (int i = 1; i <= 5; i++) {
 			LocalDate previousDate = currentDate.minusDays(i);
 			System.out.println(formatter.format(previousDate));
+
 		}
 	}
 }
