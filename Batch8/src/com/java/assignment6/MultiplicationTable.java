@@ -11,7 +11,7 @@ public class MultiplicationTable {
 	public static void Mulitication(int num) {
 		for (int i = 1; i <= 9; i++) {
 
-			System.out.println("the multiplication tablee for " + num);
+			System.out.println("the multiplication table for " + num);
 			System.out.println(num + " * " + i + " = " + (num * i));
 
 		}
