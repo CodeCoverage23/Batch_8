@@ -1,7 +1,6 @@
 package com.java.assignment17;
 //2. Design the java method for String getReverseString(String input) and 
 //take the input from user into main method and pass to that method. Result will print into main method
-
 import java.util.Scanner;
 public class ReverseString {
 
