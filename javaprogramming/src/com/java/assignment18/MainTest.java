@@ -17,11 +17,12 @@ public static void main(String[] args) {
 	}		
 catch(ProductException e) {
 	
-	System.out.println(e);
+	System.exit(0);
 	
-}
+}	
+	finally {
 	System.out.println("normal flow");
-	
+	}
 	
 }
 	
