@@ -90,7 +90,7 @@ public class TestStream {
 		System.out.println();
  
 		// for each method
-		collect.stream().forEach(p->System.out.println(p));
+		collect.stream().forEach(System.out::println);
 	       
 		
 	

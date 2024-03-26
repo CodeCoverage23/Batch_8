@@ -55,7 +55,7 @@ public class TestFunction {
 		s.add(new Student(103, "pranesh", 64));
 		s.add(new Student(101, "gaurav", 35));
 
-		for (Student s1 : s) {
+		for (Student s1 : s) { 
 			if (p.test(s1)) {
 				c.accept(s1);
 			}
